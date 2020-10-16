@@ -13,7 +13,7 @@ Hi, my name is Abhiyan. I am a fifth-year medical student with an interest in Co
 
 ## Deployed projects (latest top)
 
-- [Google Homepage](https://abhiyanbeta.github.io/google-homepage/) - Attempt at recreating Google homepage using HTML and CSS as part of The Odin Project ([View Code](https://github.com/abhiyanbeta/ankini-app))
+- [Google Homepage](https://abhiyanbeta.github.io/google-homepage/) - Attempt at recreating Google homepage using HTML and CSS as part of The Odin Project ([View Code](https://github.com/abhiyanbeta/google-homepage))
 - [Ankini](https://ankini-app.herokuapp.com/) - A simple notes management web app built using Flask as part of CS50 Final Project ([View Code](https://github.com/abhiyanbeta/ankini-app))
 
 ## Languages
