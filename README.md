@@ -4,19 +4,20 @@
 
 ## About me
 
-Hi, my name is Abhiyan. I am a fifth-year medical student with an interest in Computer Science. I just recently completed Harvard's CS50 Introduction to Computer Science course and am currently learning HTML, CSS and Javascript.
+Hi, my name is Abhiyan. I am a doctor learning to code as a hobby in my spare time. I have completed Harvard's CS50 Introduction to Computer Science course and am currently learning HTML, CSS and Javascript.
 
 <!-- - 🔭 I’m currently working on: -->
 
 - 🌱 I’m currently learning: HTML, CSS and Javascript
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhiyanbeta/) | [Twitter](https://twitter.com/abhiyanbeta) | [Email](mailto:abhiyanbetadev@gmail.com)
+- 📫 How to reach me: [Email](mailto:shiny-08.brink@icloud.com) | [LinkedIn](https://www.linkedin.com/in/abhiyanbeta/)
 
-## Deployed projects (latest top)
+## Deployed projects:
 
-- [Google Homepage](https://abhiyanbeta.github.io/google-homepage/) - Attempt at recreating Google homepage using HTML and CSS as part of The Odin Project ([View Code](https://github.com/abhiyanbeta/google-homepage))
-- [Ankini](https://ankini-app.herokuapp.com/) - A simple notes management web app built using Flask as part of CS50 Final Project ([View Code](https://github.com/abhiyanbeta/ankini-app))
+- **[Ankini](https://ankini-app.herokuapp.com/)** - A simple notes management web app built using Flask as part of CS50 Final Project ([View Code](https://github.com/abhiyanbeta/ankini-app))
+- **[Google Homepage](https://abhiyanbeta.github.io/google-homepage/)** - Attempt at recreating Google homepage using HTML and CSS as part of The Odin Project ([View Code](https://github.com/abhiyanbeta/google-homepage))
 
-## Languages
+
+## Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiyanbeta&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
