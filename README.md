@@ -13,7 +13,7 @@ Hi, my name is Abhiyan. I am a doctor learning to code as a hobby in my spare ti
 
 ## Deployed projects:
 
-- **[Ankini](https://ankini-app.herokuapp.com/)** - A simple notes management web app built using Flask as part of CS50 Final Project ([View Code](https://github.com/abhiyanbeta/ankini-app))
+- **[Ankini](https://ankini-app.herokuapp.com/)** - A simple notes management web app built using Flask as part of CS50 Final Project ([View Code](https://github.com/abhiyanbeta/ankini-app)) ([View Demo](https://youtu.be/Q-5GV49mkeU))
 - **[Google Homepage](https://abhiyanbeta.github.io/google-homepage/)** - Attempt at recreating Google homepage using HTML and CSS as part of The Odin Project ([View Code](https://github.com/abhiyanbeta/google-homepage))
 
 
