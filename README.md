@@ -17,7 +17,7 @@ Hi, my name is Abhiyan. I am a doctor learning to code as a hobby in my spare ti
 - **[Git cheatsheet](https://abhiyanbeta.github.io/git/)** - Useful git concepts hosted using Github pages ([View Code](https://github.com/abhiyanbeta/git))
 - **Rock Paper Scissors Game** - A rock paper scissors game made using Python ([View code](https://github.com/abhiyanbeta/rock_paper_scissors))
 - **[Python Concepts Documentation](https://abhiyanbeta.github.io/python_concepts/#/)** - Searchable collection of python concepts made using Docsify documentation ([View Code](https://github.com/abhiyanbeta/python_concepts/tree/master/docs))
-- **Ankini** - A simple notes management web app built using Flask as part of CS50 Final Project ([View Code](https://github.com/abhiyanbeta/ankini-app)) ([View Demo](https://youtu.be/Q-5GV49mkeU))
+- **[Ankini](https://ankini-recreate.herokuapp.com/)** - A simple notes management web app built using Flask as part of CS50 Final Project ([View Code](https://github.com/abhiyanbeta/ankini-app)) ([View Demo](https://youtu.be/Q-5GV49mkeU))
 - **[Google Homepage](https://abhiyanbeta.github.io/google-homepage/)** - Attempt at recreating Google homepage using HTML and CSS as part of The Odin Project ([View Code](https://github.com/abhiyanbeta/google-homepage))
 
 
