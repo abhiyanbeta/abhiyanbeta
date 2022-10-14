@@ -16,9 +16,9 @@ Hi, my name is Abhiyan. I am a doctor learning to code as a hobby in my spare ti
 - **[Ankini](https://ankini-recreate.herokuapp.com/)** - A simple notes management web app built using Flask as part of CS50 Final Project ([View repo](https://github.com/abhiyanbeta/ankini-app)) ([View demo video](https://youtu.be/Q-5GV49mkeU)) ([View live demo](https://ankini-recreate.herokuapp.com/))
 - **[Blog](https://abhiyanbeta.github.io/blog/)** - Blog made using Ghost, HTML and CSS ([View repo](https://github.com/abhiyanbeta/blog))
 - **[Git cheatsheet](https://abhiyanbeta.github.io/git/)** - Useful git concepts hosted using Github pages ([View repo](https://github.com/abhiyanbeta/git))
-- **Rock Paper Scissors Game** - A rock paper scissors game made using Python ([View repo](https://github.com/abhiyanbeta/rock_paper_scissors))
 - **[Python Concepts Documentation](https://abhiyanbeta.github.io/python_concepts/#/)** - Searchable collection of python concepts made using Docsify documentation ([View repo](https://github.com/abhiyanbeta/python_concepts/tree/master/docs))
 - **[Google Homepage](https://abhiyanbeta.github.io/google-homepage/)** - Attempt at recreating Google homepage using HTML and CSS as part of The Odin Project ([View repo](https://github.com/abhiyanbeta/google-homepage))
+- **Rock Paper Scissors Game** - A rock paper scissors game made using Python ([View repo](https://github.com/abhiyanbeta/rock_paper_scissors))
 
 ## Angular
 * Password generator ([View repo](https://github.com/abhiyanbeta/1-password-generator)) ([View live demo](https://1-password-generator.vercel.app/))
